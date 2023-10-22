@@ -4,7 +4,7 @@ from flask import Flask, request
 import requests
 
 # Replace 'YOUR_BOT_API_TOKEN' with your Telegram Bot API token
-bot_token = '6092786649:AAGsiM_0resGLglZTtRc-9iJtod2TagIhNE'
+bot_token = '5649746359:AAFaHK0l0Yx8klcHtCk5LCFcMSrOPshtoBE'
 
 # Replace '801280384' with the chat ID of the recipient
 chat_id = '801280384'
